@@ -1,0 +1,14 @@
+C:\Users\Joâo Victor\OneDrive\Área de Trabalho\.Net Aula Classes - Becap\bin\Debug\net9.0\Aula_Fundamentos.exe
+C:\Users\Joâo Victor\OneDrive\Área de Trabalho\.Net Aula Classes - Becap\bin\Debug\net9.0\Aula_Fundamentos.deps.json
+C:\Users\Joâo Victor\OneDrive\Área de Trabalho\.Net Aula Classes - Becap\bin\Debug\net9.0\Aula_Fundamentos.runtimeconfig.json
+C:\Users\Joâo Victor\OneDrive\Área de Trabalho\.Net Aula Classes - Becap\bin\Debug\net9.0\Aula_Fundamentos.dll
+C:\Users\Joâo Victor\OneDrive\Área de Trabalho\.Net Aula Classes - Becap\bin\Debug\net9.0\Aula_Fundamentos.pdb
+C:\Users\Joâo Victor\OneDrive\Área de Trabalho\.Net Aula Classes - Becap\obj\Debug\net9.0\Aula_Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joâo Victor\OneDrive\Área de Trabalho\.Net Aula Classes - Becap\obj\Debug\net9.0\Aula_Fundamentos.AssemblyInfoInputs.cache
+C:\Users\Joâo Victor\OneDrive\Área de Trabalho\.Net Aula Classes - Becap\obj\Debug\net9.0\Aula_Fundamentos.AssemblyInfo.cs
+C:\Users\Joâo Victor\OneDrive\Área de Trabalho\.Net Aula Classes - Becap\obj\Debug\net9.0\Aula_Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Joâo Victor\OneDrive\Área de Trabalho\.Net Aula Classes - Becap\obj\Debug\net9.0\Aula_Fundamentos.dll
+C:\Users\Joâo Victor\OneDrive\Área de Trabalho\.Net Aula Classes - Becap\obj\Debug\net9.0\refint\Aula_Fundamentos.dll
+C:\Users\Joâo Victor\OneDrive\Área de Trabalho\.Net Aula Classes - Becap\obj\Debug\net9.0\Aula_Fundamentos.pdb
+C:\Users\Joâo Victor\OneDrive\Área de Trabalho\.Net Aula Classes - Becap\obj\Debug\net9.0\Aula_Fundamentos.genruntimeconfig.cache
+C:\Users\Joâo Victor\OneDrive\Área de Trabalho\.Net Aula Classes - Becap\obj\Debug\net9.0\ref\Aula_Fundamentos.dll

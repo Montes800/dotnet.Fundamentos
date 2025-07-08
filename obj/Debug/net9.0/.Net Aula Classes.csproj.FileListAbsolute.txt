@@ -1,0 +1,14 @@
+C:\Users\Joâo Victor\OneDrive\Área de Trabalho\.Net Aula Classes\bin\Debug\net9.0\.Net Aula Classes.exe
+C:\Users\Joâo Victor\OneDrive\Área de Trabalho\.Net Aula Classes\bin\Debug\net9.0\.Net Aula Classes.deps.json
+C:\Users\Joâo Victor\OneDrive\Área de Trabalho\.Net Aula Classes\bin\Debug\net9.0\.Net Aula Classes.runtimeconfig.json
+C:\Users\Joâo Victor\OneDrive\Área de Trabalho\.Net Aula Classes\bin\Debug\net9.0\.Net Aula Classes.dll
+C:\Users\Joâo Victor\OneDrive\Área de Trabalho\.Net Aula Classes\bin\Debug\net9.0\.Net Aula Classes.pdb
+C:\Users\Joâo Victor\OneDrive\Área de Trabalho\.Net Aula Classes\obj\Debug\net9.0\.Net Aula Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joâo Victor\OneDrive\Área de Trabalho\.Net Aula Classes\obj\Debug\net9.0\.Net Aula Classes.AssemblyInfoInputs.cache
+C:\Users\Joâo Victor\OneDrive\Área de Trabalho\.Net Aula Classes\obj\Debug\net9.0\.Net Aula Classes.AssemblyInfo.cs
+C:\Users\Joâo Victor\OneDrive\Área de Trabalho\.Net Aula Classes\obj\Debug\net9.0\.Net Aula Classes.csproj.CoreCompileInputs.cache
+C:\Users\Joâo Victor\OneDrive\Área de Trabalho\.Net Aula Classes\obj\Debug\net9.0\.Net Aula Classes.dll
+C:\Users\Joâo Victor\OneDrive\Área de Trabalho\.Net Aula Classes\obj\Debug\net9.0\refint\.Net Aula Classes.dll
+C:\Users\Joâo Victor\OneDrive\Área de Trabalho\.Net Aula Classes\obj\Debug\net9.0\.Net Aula Classes.pdb
+C:\Users\Joâo Victor\OneDrive\Área de Trabalho\.Net Aula Classes\obj\Debug\net9.0\.Net Aula Classes.genruntimeconfig.cache
+C:\Users\Joâo Victor\OneDrive\Área de Trabalho\.Net Aula Classes\obj\Debug\net9.0\ref\.Net Aula Classes.dll
